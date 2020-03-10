@@ -7,4 +7,8 @@ class Calculator
 	{
 		return a+b;
 	}
+	static int Pengurangan(int a, int b)
+	{
+		return a-b;
+	}
 }
